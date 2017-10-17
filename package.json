@@ -1,0 +1,27 @@
+{
+  "name": "test-circleci",
+  "version": "1.0.0",
+  "description": "Test application for circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaknuces/test-circleci-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "circleci"
+  ],
+  "author": "Owais Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaknuces/test-circleci-js/issues"
+  },
+  "homepage": "https://github.com/zaknuces/test-circleci-js#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
